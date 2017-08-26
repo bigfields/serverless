@@ -1,3 +1,4 @@
+copyright
 The MIT License (MIT)
 
 Copyright (c) 2010-2017 Serverless, Inc. http://www.serverless.com
