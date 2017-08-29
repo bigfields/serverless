@@ -48,3 +48,4 @@ tracking-config.json
 
 # Misc
 jest
+*.orig
