@@ -1,6 +1,5 @@
 copyright
-another test line another test another test 1 2 3
-blah blah blah
+another test line - 1 2 3 - another test
 The MIT License (MIT)
 
 Copyright (c) 2010-2017 Serverless, Inc. http://www.serverless.com
