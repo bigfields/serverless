@@ -1,4 +1,4 @@
 test1 file
 test2 file
 test30 file - another change
-test20 file - blah blah blah
+test20 file - changed file
